@@ -7,6 +7,8 @@
 5-go to the client folder
 6-npm install
 7-npm start
+
+
 #APIS
 1-Login
 2-signup
